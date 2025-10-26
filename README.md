@@ -68,8 +68,8 @@ As e-commerce continues to evolve, implementing advanced recommendation systems 
 6. Run the Flask server and explore the e-commerce platform with personalized recommendations.
 
 **Contact Information**:
-- **Name**: Yash Raj
-- **Email**: yashraj3376@gmail.com
+- **Name**: Moumita Baidya
+- **Email**: baidyamoumita022@gmail.com
 
 ---
 
